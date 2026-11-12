@@ -61,5 +61,8 @@ Working on ShipNGO helped me practice:
 [▶ Watch ShipNGO Demo on YouTube](https://youtu.be/k6gJLpIEpzY)
 
 ---
+## 📂 Repository Note
+
+This repository serves as a project showcase and includes the project documentation and demo video. The original source code files are not currently included.
 
 *ShipNGO is a practical project developed as part of my journey in web development.*
